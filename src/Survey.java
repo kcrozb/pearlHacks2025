@@ -27,7 +27,7 @@ public class Question{
         List<Question> questions = new ArrayList<>();
 
         // Add survey Questions
-        qu
+        questions.add(new Question(""));
     }
  }
 
